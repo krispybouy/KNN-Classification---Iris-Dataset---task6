@@ -1,4 +1,4 @@
-# Task 6 – K-Nearest Neighbors (KNN) Classification
+# K-Nearest Neighbors (KNN) Classification
 
 In this task, I worked on implementing the K-Nearest Neighbors algorithm to classify data points based on their similarity to nearby examples.
 
